@@ -9,7 +9,6 @@ if (isset($_POST['name']) && isset($_POST['pwd'])) {
 		$errorMessage = $result;
 	}
 }
-
 ?>
 
 <!DOCTYPE html>
